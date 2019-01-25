@@ -18,3 +18,14 @@
     margin:0px;
     padding:0px;
 }
+
+body {
+    background-color:#cccccc;
+}
+
+.brandContainer{
+    background-color: #4aaaa5;
+}
+#brand{
+    color: #ffffff;
+}
