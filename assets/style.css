@@ -21,11 +21,33 @@
 
 body {
     background-color:#cccccc;
+    padding-top: 80px;
 }
 
-.brandContainer{
+
+.navbar-default .navbar-brand{
+    color:white;
     background-color: #4aaaa5;
 }
-#brand{
-    color: #ffffff;
+
+.container{
+background-color: white;
+}
+
+.form-control {
+    color: #cccccc;
+}
+label{
+    color:#777777;
+    font-weight: 1;
+}
+
+hr {
+    border-top: 2px solid #cccccc; 
+    width: 1086px;
+}
+
+h3 {
+    margin-top: 32px;
+    color:#4aaaa5;
 }
