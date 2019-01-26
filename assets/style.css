@@ -50,4 +50,21 @@ hr {
 h3 {
     margin-top: 32px;
     color:#4aaaa5;
+    padding-left: 27px;
+}
+#messageContainer{
+    height: 300px;
+}
+#myNameContainer{
+    width: 1081px;
+    margin-left: 14px;
+}
+
+#myName{
+    padding-left: 16px;
+}
+
+.btn-default{
+    background: #4aaaa5;
+    color:white;
 }
