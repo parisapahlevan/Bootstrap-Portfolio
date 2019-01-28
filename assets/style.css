@@ -22,6 +22,7 @@
 body {
     background-color:#cccccc;
     padding-top: 80px;
+    padding-bottom: 80px;
 }
 
 
@@ -44,7 +45,7 @@ label{
 
 hr {
     border-top: 2px solid #cccccc; 
-    width: 1086px;
+    width: 1133px;
 }
 
 h3 {
@@ -83,4 +84,18 @@ h3 {
 .col-md-6 {
     width: 50%;
     padding-top: 17px;
+}
+
+
+.myFooter{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    border-top: 8px solid #4aaaa5;
+    height: 60px;
+    padding-top: 14px;
 }
