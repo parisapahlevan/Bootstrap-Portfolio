@@ -55,16 +55,32 @@ h3 {
 #messageContainer{
     height: 300px;
 }
-#myNameContainer{
-    width: 1081px;
-    margin-left: 14px;
-}
 
-#myName{
-    padding-left: 16px;
-}
 
 .btn-default{
     background: #4aaaa5;
     color:white;
+}
+
+#aboutMeImage{
+    max-width: 100%;
+    max-height: 100%;
+    padding-left: 28px;
+    padding-top: 11px;
+}
+
+.selectionContainer{
+    color: #777777;
+    font-size: 16px;
+    line-height: 248%;
+    text-align: justify;
+    height: 100%;
+    padding-right: 30px;
+    padding-left: 28px;
+}
+
+
+.col-md-6 {
+    width: 50%;
+    padding-top: 17px;
 }
