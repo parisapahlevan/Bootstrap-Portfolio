@@ -87,7 +87,7 @@ h3 {
 }
 
 
-.myFooter{
+footer {
     position: fixed;
     left: 0;
     bottom: 0;
@@ -95,7 +95,26 @@ h3 {
     background-color: black;
     color: white;
     text-align: center;
-    border-top: 8px solid #4aaaa5;
-    height: 60px;
-    padding-top: 14px;
+    border-top: 2px solid #4aaaa5;
+    height: 50px;
+    padding-top: 12px;
 }
+
+.list-social-container{
+    height: 50px;
+    margin-top: -13px;
+  }
+  
+  ul{
+    list-style: none;
+    justify-content: center;
+    display: flex;
+  }
+  
+  .image-social{
+    max-width: 120%;
+    height: 28px;
+    margin: 13px;
+  }
+
+  
