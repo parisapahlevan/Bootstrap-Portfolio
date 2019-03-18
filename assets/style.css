@@ -96,7 +96,7 @@ footer {
     color: white;
     text-align: center;
     border-top: 2px solid #4aaaa5;
-    height: 50px;
+    height: 70px;
     padding-top: 12px;
 }
 
@@ -112,9 +112,8 @@ footer {
   }
   
   .image-social{
-    max-width: 120%;
-    height: 28px;
-    margin: 13px;
+    height: 36px;
+    margin: 23px;
   }
 
   
