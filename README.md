@@ -1,4 +1,4 @@
-# Bootstrap-Portfolio
+# Portfolio
 Recreate Your Portfolio Site with Bootstrap
 Using Bootstrap, recreate my portfolio site with the following items:
 
