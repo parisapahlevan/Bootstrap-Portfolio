@@ -3,7 +3,9 @@
     width: 731px;
     height: 319px;
 }
-
+.thumbnail a>img{
+  height: 340px;  
+}
 .imgStrip{
     background-color: #4aaaa5;
     color: white;
